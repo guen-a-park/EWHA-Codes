@@ -1,14 +1,9 @@
 # Biobigdata & Datamining
 
-```
+
 <details>
-```
-
-### <summary>Homework 1 </summary>
-
-```
+<summary>Homework 1</summary>
 <div markdown="1">
-```
 
 영문텍스트 단어 빈도수 출력
 
@@ -19,6 +14,5 @@
 빈도수 표시후에 barplot 그림
 
 </div>
-
 </details>
 
