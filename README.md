@@ -1,1 +1,1 @@
-# school-code
+# Ewha-codes🏫
