@@ -1,6 +1,8 @@
 # Biobigdata & Datamining
 
 
+
+
 <details>
 <summary>Homework 1</summary>
 <div markdown="1">
@@ -15,4 +17,9 @@
 
 </div>
 </details>
+
+
+
+rstudio 수동설치및 오류확인
+https://bluediary8.tistory.com/86
 
