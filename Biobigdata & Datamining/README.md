@@ -21,14 +21,11 @@
 <details>
 <summary>Homework 2</summary>
 <div markdown="1">
-  
-UCI 데이터셋을(https://archive.ics.uci.edu/ml/datasets/Heart+Disease) 이요해 여러가지 feature들로 병이 존재하는지(1) 존재하지 않는지(0) 유무를 판단.
-  
-UCI_heart_disease.csv
- 
+
+UCI 데이터셋을(https://archive.ics.uci.edu/ml/datasets/Heart+Disease) 이용해 여러가지 feature들로 병이 존재하는지(1) 존재하지 않는지(0) 유무를 판단.
 
 이때 random forest 모델로 범주형 변수 예측
-[코드링크](https://github.com/guen-a-park/EWHA-Codes/blob/main/Biobigdata%20%26%20Datamining/ensemble_code/randomforest.R)
+
 
 </div>
 </details>
