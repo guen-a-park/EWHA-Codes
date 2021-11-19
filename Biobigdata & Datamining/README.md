@@ -18,8 +18,16 @@
 </div>
 </details>
 
+<details>
+<summary>Homework 2</summary>
+<div markdown="1">
 
+random forest 모델로 범주형 변수 예측
+[코드링크]()
 
-rstudio 수동설치및 오류확인
+</div>
+</details>
+
+rstudio 라이브러리 수동설치 및 오류확인
 https://bluediary8.tistory.com/86
 
